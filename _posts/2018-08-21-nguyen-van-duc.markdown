@@ -1,8 +1,16 @@
 ---
 layout: post
 title:  "Nguyen Van Duc"
+private_avatar: ""
+private_read_name: "グエン　ヴァン　ドゥク"
+slack_name: "len"
+slack_avatar: ""
+github_name: "DucNguyenVan"
+github_avatar: ""
+area: "japan"
+team: "開発チーム"
 date:   2018-08-21
-categories:  [日本側, 開発チーム、エンジニア]
+categories:  [日本側, 開発チーム]
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Pham Van Hai"
-private_read_name: "ファム　ヴァン　ハイ"
-slack_name: "phamhai"
+title:  "Ryotaro Goto"
+private_read_name: "ヨシイ リュウタ"
+slack_name: "ryuta"
 slack_avatar: ""
-github_name: "haipv1108"
+github_name: "R-Yoshi0701"
 github_avatar: ""
 area: "japan"
 team: "開発チーム"

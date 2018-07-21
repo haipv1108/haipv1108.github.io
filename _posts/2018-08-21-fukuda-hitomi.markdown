@@ -1,6 +1,13 @@
 ---
 layout: post
 title:  "福田 ひとみ"
+private_read_name: "フクダ ヒトミ"
+slack_name: "Hitomin"
+slack_avatar: ""
+github_name: "fukudahitomi"
+github_avatar: ""
+area: "japan"
+team: "プロダクト"
 date:   2018-08-21
 categories:  [日本側, プロダクト]
 ---

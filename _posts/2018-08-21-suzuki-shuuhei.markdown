@@ -1,6 +1,13 @@
 ---
 layout: post
 title:  "伊藤 拓夢"
+private_read_name: "スズキ シュウヘイ"
+slack_name: "shuhei-suzuki"
+slack_avatar: ""
+github_name: "shuhei-suzuki"
+github_avatar: ""
+area: "japan"
+team: "開発チーム"
 date:   2018-08-21
 categories:  [日本側, プロダクト]
 ---
