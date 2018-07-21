@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "伊藤 拓夢"
+title:  "鈴木 脩平"
 private_read_name: "スズキ シュウヘイ"
 slack_name: "shuhei-suzuki"
 slack_avatar: ""
