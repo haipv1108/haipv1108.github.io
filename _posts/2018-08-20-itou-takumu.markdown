@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mai Trung Nghia"
+title:  "伊藤 拓夢"
 date:   2018-08-21
 categories:  [日本側, 開発チーム、エンジニア]
 ---

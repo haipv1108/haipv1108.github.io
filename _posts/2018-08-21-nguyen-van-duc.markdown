@@ -2,7 +2,7 @@
 layout: post
 title:  "Nguyen Van Duc"
 date:   2018-08-21
-categories: [blog]
+categories:  [日本側, 開発チーム、エンジニア]
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

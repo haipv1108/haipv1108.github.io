@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mai Trung Nghia"
+title:  "渡邊 信生"
 date:   2018-08-21
 categories:  [日本側, 開発チーム、エンジニア]
 ---
