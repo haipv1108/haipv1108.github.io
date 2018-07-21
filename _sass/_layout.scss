@@ -138,6 +138,81 @@ a.reversefootnote {
     }
 }
 
+.member-info {
+  .private-info {
+    float: left;
+    width: 20%;
+    text-align: center;
+    position: relative;
+    position: relative;
+    .info {
+      position: absolute;
+      top: 8px;
+      right: 16px;
+      color: #e91e63;
+    }
+    .circle-img {
+      border-radius: 50%;
+      width: 80px;
+    }
+    .name-info {
+      color: #5c6bc0;
+    }
+  }
+  .github-info {
+    float: left;
+    width: 20%;
+    text-align: center;
+    position: relative;
+    .info {
+      position: absolute;
+      top: 8px;
+      right: 16px;
+      color: #e91e63;
+    }
+    .circle-img {
+      border-radius: 50%;
+      width: 80px;
+    }
+    .name-info {
+      color: #5c6bc0;
+    }
+  }
+  .slack-info {
+    float: left;
+    width: 20%;
+    text-align: center;
+    position: relative;
+    .info {
+      position: absolute;
+      top: 8px;
+      right: 16px;
+      color: #e91e63;
+    }
+    .circle-img {
+      border-radius: 50%;
+      width: 80px;
+    }
+    .name-info {
+      color: #5c6bc0;
+    }
+  }
+  .team-info {
+    float: left;
+    margin-top: 30px;
+    margin-left: 50px;
+    color: #e91e63;
+  }
+}
+
+.btn-overview {
+  float: right;
+  margin-top: 25px;
+}
+
+.card-overview {
+  height: 200px;
+}
 
 /**
  * Site pagination
