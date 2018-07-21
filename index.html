@@ -36,7 +36,11 @@ layout: default
             <p class="name-info">{{ post.github_name}}</p>
           </div>
           <div class="team-info">
-            <p>{{ post.area == "japan" ? ("🇯🇵" + post.team) : ("🇻🇳" + post.team)}}</p>
+            {% if post.area == "japan" %}
+            <p>🇯🇵{{post.team}}</p>
+            {% else %}
+            <p>🇻🇳{{post.team}}</p>
+            {% endif %}
           </div>
         </div>
 
