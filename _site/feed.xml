@@ -3,10 +3,10 @@
   <channel>
     <title>Your blog</title>
     <description>I know that what I'm doing looks stupid, but I'm a big boy and really want to do this.</description>
-    <link>http://localhost:4000/materialize-jekyll/</link>
-    <atom:link href="http://localhost:4000/materialize-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 21 Jul 2018 09:28:02 +0900</pubDate>
-    <lastBuildDate>Sat, 21 Jul 2018 09:28:02 +0900</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 21 Jul 2018 09:41:46 +0900</pubDate>
+    <lastBuildDate>Sat, 21 Jul 2018 09:41:46 +0900</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -27,8 +27,8 @@
 
 </description>
         <pubDate>Fri, 30 Dec 2016 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/materialize-jekyll/posts/blog/jekyll/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/materialize-jekyll/posts/blog/jekyll/welcome-to-jekyll.html</guid>
+        <link>http://localhost:4000/posts/blog/jekyll/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/blog/jekyll/welcome-to-jekyll.html</guid>
         
         
         <category>blog</category>
@@ -145,8 +145,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 30 Dec 2016 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/materialize-jekyll/posts/readme/readme.html</link>
-        <guid isPermaLink="true">http://localhost:4000/materialize-jekyll/posts/readme/readme.html</guid>
+        <link>http://localhost:4000/posts/readme/readme.html</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/readme/readme.html</guid>
         
         <category>jekyll</category>
         
